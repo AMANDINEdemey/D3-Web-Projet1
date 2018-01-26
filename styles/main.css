@@ -44,7 +44,7 @@ h1{
 
 body{
 font-family: 'basic title font';
-color: rgb(255, 255, 255);
+color: #FF0000;
 font-size: 1em;
 text-align: center;
 background-color: rgb(0,0,0);
@@ -98,7 +98,7 @@ justify-content: center;
 }
 .bio-content-block p{
   font-family: 'basic title font';
-  color: rgb(255, 255, 255);
+color: #FF0000;
   font-size: 1em;
   margin: 2em;
 }
